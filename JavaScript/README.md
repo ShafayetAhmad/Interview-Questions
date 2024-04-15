@@ -54,9 +54,6 @@ This document contains a list of JavaScript interview questions that are commonl
 </details>
 
 <details>
-  <
-
-<details>
   <summary>What is JavaScript?</summary>
   JavaScript is a high-level, interpreted programming language that is widely used to create interactive and dynamic websites.
 </details>
